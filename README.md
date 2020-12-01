@@ -1,3 +1,3 @@
-# Project 3
+# Project 3 The Pizza Place
 
-Web Programming with Python and JavaScript
+Harvard University's CS50W
